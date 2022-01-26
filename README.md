@@ -7,6 +7,7 @@
 	* Swiper-slider
 	* Animations
 	* Menu-burger
+	* Anchor
 * GULP
 * NPM
 * GIT
